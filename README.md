@@ -3,5 +3,4 @@
 </p>
 <h4 align="center">
 a Micro bot for not-so-Micro needs.
-</h4>
- <sub><sup>Our logo looks like a comb :3</sup></sub>
+</h4><sub><sup>Our logo looks like a comb :3</sup></sub>
