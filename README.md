@@ -5,8 +5,9 @@
 a Micro bot for not-so-Micro needs. <sub><sup>Micro's logo looks like a comb :3</sup></sub>
 </h4>
 
-# Work In Progress
-This bot is no where close to being done. );  
+<h1 align="center">🏗️ Work In Progress</h1>
+
+This bot is no where close to being done. );
 I guess here's what we're doing...
 - [x] Base Bot
 - [ ] Moderation
