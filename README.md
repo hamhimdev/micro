@@ -1,9 +1,6 @@
 <p align="center">
-    <img width="100" src="https://media.discordapp.net/attachments/1137862477175070762/1138454673771200543/Micro_1.png?width=423&height=280" alt="Micro Image">
+    <img width="500" src="https://media.discordapp.net/attachments/1109731302372032613/1155390482050990110/mircobanner.png?width=1440&height=431" alt="Micro Image">
 </p>
-<h4 align="center">
-a Micro bot for not-so-Micro needs. <sub><sup>Micro's logo looks like a comb :3</sup></sub>
-</h4>
 
 <h1 align="center">🏗️ Moving to Bun javascript runtime</h1>
 
